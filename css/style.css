@@ -38,7 +38,7 @@ ul{
 
 /* section 1 */
 .section1{
-    margin-top: 100px;
+    margin-top: 90px;
     background-image: url(../images/main.png);
     background-position:center;
     background-repeat: no-repeat;
@@ -73,7 +73,7 @@ ul{
 
 h4{
 	font-size: 15px;
-	color: #73733f;
+	color: #52521d;
 }
 
 .s2-h2{
@@ -84,7 +84,7 @@ h4{
 
 .s2-p{
 	font-size: 16px;
-	color: #949451;
+	color: #52521d;
 	margin-top: 15px;
 }
 
