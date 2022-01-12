@@ -1,5 +1,10 @@
+@font-face {
+    font-family: face;
+    src: url(../fonts/TheNautigal-Bold.ttf);
+}
+
+
 .fonts {
-    font-family:fantasy;
     font-size: 30px;
     color: rgb(60, 60, 60);
 }
